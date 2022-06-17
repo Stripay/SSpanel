@@ -1,0 +1,2 @@
+# SSpanel
+Stripay for SSpanel
